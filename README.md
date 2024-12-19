@@ -1,9 +1,9 @@
- [![](https://wallpapercave.com/wp/wp6735264.png)
+ ![](https://wallpapercave.com/wp/wp6735264.png)
 
-<h1 align="center">Hi ??, I'm Kaan Kacar</h1>
-- ?? I’m currently learning **.NET**
+<h1 align="center">Hi 👋, I'm Kaan Kacar</h1>
+-  🌱 I’m currently learning **.NET**
 
-- ?? How to reach me **rahimkaanis@gmail.com**
+-📫 How to reach me **rahimkaanis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
