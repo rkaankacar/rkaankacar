@@ -1,4 +1,4 @@
- [![MasterHead](https://wallpapercave.com/wp/wp6735264.png)
+ [![](https://wallpapercave.com/wp/wp6735264.png)
 
 <h1 align="center">Hi ??, I'm Kaan Kacar</h1>
 - ?? I’m currently learning **.NET**
